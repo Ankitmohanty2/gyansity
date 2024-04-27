@@ -4,7 +4,7 @@ Gyansity is a simple web application built with React.js that provides smooth sc
 
 ## Demo
 
-You can check out the live demo of Gyansity [here](#) (replace with your actual demo link).
+You can check out the live demo of Gyansity [here](https://gyansity.vercel.app/) (replace with your actual demo link).
 
 ## Features
 
